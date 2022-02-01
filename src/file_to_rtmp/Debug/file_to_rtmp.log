@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+e:\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\ffmpeg\src\file_to_rtmp\main.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+e:\ffmpeg\src\file_to_rtmp\main.cpp(80): warning C4996: 'AVStream::codec': 被声明为已否决
+  e:\ffmpeg\include\libavformat\avformat.h(877): note: 参见“AVStream::codec”的声明
+e:\ffmpeg\src\file_to_rtmp\main.cpp(88): warning C4996: 'AVStream::codec': 被声明为已否决
+  e:\ffmpeg\include\libavformat\avformat.h(877): note: 参见“AVStream::codec”的声明
+e:\ffmpeg\src\file_to_rtmp\main.cpp(137): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+e:\ffmpeg\src\file_to_rtmp\main.cpp(139): warning C4244: “参数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+e:\ffmpeg\src\file_to_rtmp\main.cpp(35): warning C4996: 'av_register_all': 被声明为已否决
+  e:\ffmpeg\include\libavformat\avformat.h(2025): note: 参见“av_register_all”的声明
+  file_to_rtmp.vcxproj -> E:\ffmpeg\src\file_to_rtmp\..\..\bin\file_to_rtmp.exe
+  file_to_rtmp.vcxproj -> ..\..\bin\file_to_rtmp.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  uic QtWidgetsApplication1.ui
+  QtWidgetsApplication1.cpp
+  main.cpp
+  moc_QtWidgetsApplication1.cpp
+  QtWidgetsApplication1.vcxproj -> E:\ffmpeg\src\QtWidgetsApplication1\Debug\QtWidgetsApplication1.exe
+  QtWidgetsApplication1.vcxproj -> E:\ffmpeg\src\QtWidgetsApplication1\Debug\QtWidgetsApplication1.pdb (Full PDB)
